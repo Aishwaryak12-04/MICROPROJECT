@@ -1,0 +1,26 @@
+{
+  "recipes": [
+    {
+      "id": "2",
+      "name": "Chicken Curry",
+      "ingredients": "Chicken, Curry Powder, Coconut Milk",
+      "instructions": "Cook chicken, add curry powder, mix with coconut milk."
+    },
+    {
+      "id": "106",
+      "name": "frrsasasx",
+      "ingredients": "xxx",
+      "instructions": "xzxzxsac"
+    },
+    {
+      "id": "3",
+      "name": "BIRYANIDS",
+      "description": "ds"
+    },
+    {
+      "id": "101",
+      "name": "Aishwarya k",
+      "description": "biriyani"
+    }
+  ]
+}
